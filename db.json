@@ -1,0 +1,661 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Aadarsh",
+      "lastName": "Balika",
+      "email": "aadarshbalika@gmail.com",
+      "password": "aadarshbalika@123"
+    }
+  ],
+  "tweets": [
+    {
+      "id": 1294,
+      "tweetData": "In India, everyone is a self taught developer. Fact. Not kidding. The education part of college failed all of us."
+    },
+    {
+      "id": 1295,
+      "tweetData": "In India, we all are obsessed with “whats next”. Just imagine how better the world would be, if we start focussing on NOW, and not NEXT."
+    },
+    {
+      "id": 1296,
+      "tweetData": "What works for you today might not work tomorrow. Upgrade your strategy with time"
+    },
+    {
+      "id": 1297,
+      "tweetData": "Cars, houses, and branded clothes are not luxury. Good health, financial independence, and free time are."
+    }
+  ],
+  "profiles": [
+    {
+      "userId": 1,
+      "userImage": "https://i.ibb.co/MPMwHY5/adarshbalika.png",
+      "userName": "aadarshbalika",
+      "userBio": "Conquering hackathons",
+      "isPrivate": false,
+      "firstName": "Aadarsh",
+      "lastName": "Balika",
+      "noOfFollower": 5,
+      "noOfFollowing": 5,
+      "following": [
+        {
+          "userId": 2,
+          "userImage": "https://i.ibb.co/F8kfjkh/tanaypratap.jpg",
+          "userName": "tanaypratap",
+          "firstName": "Tanay",
+          "lastName": "Pratap",
+          "userBio": "Rebuilding education",
+          "isPrivate": false
+        },
+        {
+          "userId": 3,
+          "userImage": "https://i.ibb.co/ZHpQV3b/raghavbang.jpg",
+          "userName": "raghavbang",
+          "firstName": "Raghav",
+          "lastName": "Bang",
+          "userBio": "WebDeveloper, in love with JS",
+          "isPrivate": false
+        },
+        {
+          "userId": 4,
+          "userImage": "https://i.ibb.co/NWhn8LF/ritikkapoor.jpg",
+          "userName": "ritikkapoor",
+          "firstName": "Ritik",
+          "lastName": "Kapoor",
+          "userBio": "Learner neogcamp | #ejs on weekends with teamtanay",
+          "isPrivate": false
+        },
+        {
+          "userId": 5,
+          "userImage": "https://i.ibb.co/Zz7VWNw/tushartiwari.jpg",
+          "userName": "tushartiwari",
+          "firstName": "Tushar",
+          "lastName": "Tiwari",
+          "userBio": "Building Perforrmant applications that are easy to maintain, scale",
+          "isPrivate": false
+        },
+        {
+          "userId": 6,
+          "userImage": "https://i.ibb.co/ZXZ8Mr1/harshitadaswani.jpg",
+          "userName": "harshitadaswani",
+          "firstName": "Harshita",
+          "lastName": "Daswani",
+          "userBio": "Student, Aspiring Full Stack Web Developer",
+          "isPrivate": false
+        }
+      ],
+      "follower": [
+        {
+          "userId": 2,
+          "userImage": "https://i.ibb.co/F8kfjkh/tanaypratap.jpg",
+          "userName": "tanaypratap",
+          "firstName": "Tanay",
+          "lastName": "Pratap",
+          "userBio": "Rebuilding education",
+          "isPrivate": false
+        },
+        {
+          "userId": 3,
+          "userImage": "https://i.ibb.co/ZHpQV3b/raghavbang.jpg",
+          "userName": "raghavbang",
+          "firstName": "Raghav",
+          "lastName": "Bang",
+          "userBio": "WebDeveloper, in love with JS",
+          "isPrivate": false
+        },
+        {
+          "userId": 4,
+          "userImage": "https://i.ibb.co/NWhn8LF/ritikkapoor.jpg",
+          "userName": "ritikkapoor",
+          "firstName": "Ritik",
+          "lastName": "Kapoor",
+          "userBio": "Learner neogcamp | #ejs on weekends with teamtanay",
+          "isPrivate": false
+        },
+        {
+          "userId": 5,
+          "userImage": "https://i.ibb.co/Zz7VWNw/tushartiwari.jpg",
+          "userName": "tushartiwari",
+          "firstName": "Tushar",
+          "lastName": "Tiwari",
+          "userBio": "Building Perforrmant applications that are easy to maintain, scale",
+          "isPrivate": false
+        },
+        {
+          "userId": 6,
+          "userImage": "https://i.ibb.co/ZXZ8Mr1/harshitadaswani.jpg",
+          "userName": "harshitadaswani",
+          "firstName": "Harshita",
+          "lastName": "Daswani",
+          "userBio": "Student, Aspiring Full Stack Web Developer",
+          "isPrivate": false
+        }
+      ]
+    },
+    {
+      "userId": 2,
+      "userImage": "https://i.ibb.co/F8kfjkh/tanaypratap.jpg",
+      "userName": "tanaypratap",
+      "userBio": "Rebuilding education",
+      "isPrivate": false,
+      "firstName": "Tanay",
+      "lastName": "Pratap",
+      "noOfFollower": 5,
+      "noOfFollowing": 5,
+      "following": [
+        {
+          "userId": 1,
+          "userImage": "https://i.ibb.co/MPMwHY5/adarshbalika.png",
+          "userName": "aadarshbalika",
+          "userBio": "Conquering hackathons",
+          "isPrivate": false,
+          "firstName": "Aadarsh",
+          "lastName": "Balika"
+        },
+        {
+          "userId": 3,
+          "userImage": "https://i.ibb.co/ZHpQV3b/raghavbang.jpg",
+          "userName": "raghavbang",
+          "firstName": "Raghav",
+          "lastName": "Bang",
+          "userBio": "WebDeveloper, in love with JS",
+          "isPrivate": false
+        },
+        {
+          "userId": 4,
+          "userImage": "https://i.ibb.co/NWhn8LF/ritikkapoor.jpg",
+          "userName": "ritikkapoor",
+          "firstName": "Ritik",
+          "lastName": "Kapoor",
+          "userBio": "Learner neogcamp | #ejs on weekends with teamtanay",
+          "isPrivate": false
+        },
+        {
+          "userId": 5,
+          "userImage": "https://i.ibb.co/Zz7VWNw/tushartiwari.jpg",
+          "userName": "tushartiwari",
+          "firstName": "Tushar",
+          "lastName": "Tiwari",
+          "userBio": "Building Perforrmant applications that are easy to maintain, scale",
+          "isPrivate": false
+        },
+        {
+          "userId": 6,
+          "userImage": "https://i.ibb.co/ZXZ8Mr1/harshitadaswani.jpg",
+          "userName": "harshitadaswani",
+          "firstName": "Harshita",
+          "lastName": "Daswani",
+          "userBio": "Student, Aspiring Full Stack Web Developer",
+          "isPrivate": false
+        }
+      ],
+      "follower": [
+        {
+          "userId": 1,
+          "userImage": "https://i.ibb.co/MPMwHY5/adarshbalika.png",
+          "userName": "aadarshbalika",
+          "userBio": "Conquering hackathons",
+          "isPrivate": false,
+          "firstName": "Aadarsh",
+          "lastName": "Balika"
+        },
+        {
+          "userId": 3,
+          "userImage": "https://i.ibb.co/ZHpQV3b/raghavbang.jpg",
+          "userName": "raghavbang",
+          "firstName": "Raghav",
+          "lastName": "Bang",
+          "userBio": "WebDeveloper, in love with JS",
+          "isPrivate": false
+        },
+        {
+          "userId": 4,
+          "userImage": "https://i.ibb.co/NWhn8LF/ritikkapoor.jpg",
+          "userName": "ritikkapoor",
+          "firstName": "Ritik",
+          "lastName": "Kapoor",
+          "userBio": "Learner neogcamp | #ejs on weekends with teamtanay",
+          "isPrivate": false
+        },
+        {
+          "userId": 5,
+          "userImage": "https://i.ibb.co/Zz7VWNw/tushartiwari.jpg",
+          "userName": "tushartiwari",
+          "firstName": "Tushar",
+          "lastName": "Tiwari",
+          "userBio": "Building Perforrmant applications that are easy to maintain, scale",
+          "isPrivate": false
+        },
+        {
+          "userId": 6,
+          "userImage": "https://i.ibb.co/ZXZ8Mr1/harshitadaswani.jpg",
+          "userName": "harshitadaswani",
+          "firstName": "Harshita",
+          "lastName": "Daswani",
+          "userBio": "Student, Aspiring Full Stack Web Developer",
+          "isPrivate": false
+        }
+      ]
+    },
+    {
+      "userId": 3,
+      "userImage": "https://i.ibb.co/ZHpQV3b/raghavbang.jpg",
+      "userName": "raghavbang",
+      "firstName": "Raghav",
+      "lastName": "Bang",
+      "userBio": "WebDeveloper, in love with JS",
+      "isPrivate": false,
+      "noOfFollower": 5,
+      "noOfFollowing": 5,
+      "following": [
+        {
+          "userId": 2,
+          "userImage": "https://i.ibb.co/F8kfjkh/tanaypratap.jpg",
+          "userName": "tanaypratap",
+          "firstName": "Tanay",
+          "lastName": "Pratap",
+          "userBio": "Rebuilding education",
+          "isPrivate": false
+        },
+        {
+          "userId": 1,
+          "userImage": "https://i.ibb.co/MPMwHY5/adarshbalika.png",
+          "userName": "aadarshbalika",
+          "userBio": "Conquering hackathons",
+          "isPrivate": false,
+          "firstName": "Aadarsh",
+          "lastName": "Balika"
+        },
+        {
+          "userId": 4,
+          "userImage": "https://i.ibb.co/NWhn8LF/ritikkapoor.jpg",
+          "userName": "ritikkapoor",
+          "firstName": "Ritik",
+          "lastName": "Kapoor",
+          "userBio": "Learner neogcamp | #ejs on weekends with teamtanay",
+          "isPrivate": false
+        },
+        {
+          "userId": 5,
+          "userImage": "https://i.ibb.co/Zz7VWNw/tushartiwari.jpg",
+          "userName": "tushartiwari",
+          "firstName": "Tushar",
+          "lastName": "Tiwari",
+          "userBio": "Building Perforrmant applications that are easy to maintain, scale",
+          "isPrivate": false
+        },
+        {
+          "userId": 6,
+          "userImage": "https://i.ibb.co/ZXZ8Mr1/harshitadaswani.jpg",
+          "userName": "harshitadaswani",
+          "firstName": "Harshita",
+          "lastName": "Daswani",
+          "userBio": "Student, Aspiring Full Stack Web Developer",
+          "isPrivate": false
+        }
+      ],
+      "follower": [
+        {
+          "userId": 2,
+          "userImage": "https://i.ibb.co/F8kfjkh/tanaypratap.jpg",
+          "userName": "tanaypratap",
+          "firstName": "Tanay",
+          "lastName": "Pratap",
+          "userBio": "Rebuilding education",
+          "isPrivate": false
+        },
+        {
+          "userId": 1,
+          "userImage": "https://i.ibb.co/MPMwHY5/adarshbalika.png",
+          "userName": "aadarshbalika",
+          "userBio": "Conquering hackathons",
+          "isPrivate": false,
+          "firstName": "Aadarsh",
+          "lastName": "Balika"
+        },
+        {
+          "userId": 4,
+          "userImage": "https://i.ibb.co/NWhn8LF/ritikkapoor.jpg",
+          "userName": "ritikkapoor",
+          "firstName": "Ritik",
+          "lastName": "Kapoor",
+          "userBio": "Learner neogcamp | #ejs on weekends with teamtanay",
+          "isPrivate": false
+        },
+        {
+          "userId": 5,
+          "userImage": "https://i.ibb.co/Zz7VWNw/tushartiwari.jpg",
+          "userName": "tushartiwari",
+          "firstName": "Tushar",
+          "lastName": "Tiwari",
+          "userBio": "Building Perforrmant applications that are easy to maintain, scale",
+          "isPrivate": false
+        },
+        {
+          "userId": 6,
+          "userImage": "https://i.ibb.co/ZXZ8Mr1/harshitadaswani.jpg",
+          "userName": "harshitadaswani",
+          "firstName": "Harshita",
+          "lastName": "Daswani",
+          "userBio": "Student, Aspiring Full Stack Web Developer",
+          "isPrivate": false
+        }
+      ]
+    },
+    {
+      "userId": 4,
+      "userImage": "https://i.ibb.co/NWhn8LF/ritikkapoor.jpg",
+      "userName": "ritikkapoor",
+      "firstName": "Ritik",
+      "lastName": "Kapoor",
+      "userBio": "Learner neogcamp | #ejs on weekends with teamtanay",
+      "isPrivate": false,
+      "noOfFollower": 5,
+      "noOfFollowing": 5,
+      "following": [
+        {
+          "userId": 2,
+          "userImage": "https://i.ibb.co/F8kfjkh/tanaypratap.jpg",
+          "userName": "tanaypratap",
+          "firstName": "Tanay",
+          "lastName": "Pratap",
+          "userBio": "Rebuilding education",
+          "isPrivate": false
+        },
+        {
+          "userId": 3,
+          "userImage": "https://i.ibb.co/ZHpQV3b/raghavbang.jpg",
+          "userName": "raghavbang",
+          "firstName": "Raghav",
+          "lastName": "Bang",
+          "userBio": "WebDeveloper, in love with JS",
+          "isPrivate": false
+        },
+        {
+          "userId": 1,
+          "userImage": "https://i.ibb.co/MPMwHY5/adarshbalika.png",
+          "userName": "aadarshbalika",
+          "userBio": "Conquering hackathons",
+          "isPrivate": false,
+          "firstName": "Aadarsh",
+          "lastName": "Balika"
+        },
+        {
+          "userId": 5,
+          "userImage": "https://i.ibb.co/Zz7VWNw/tushartiwari.jpg",
+          "userName": "tushartiwari",
+          "firstName": "Tushar",
+          "lastName": "Tiwari",
+          "userBio": "Building Perforrmant applications that are easy to maintain, scale",
+          "isPrivate": false
+        },
+        {
+          "userId": 6,
+          "userImage": "https://i.ibb.co/ZXZ8Mr1/harshitadaswani.jpg",
+          "userName": "harshitadaswani",
+          "firstName": "Harshita",
+          "lastName": "Daswani",
+          "userBio": "Student, Aspiring Full Stack Web Developer",
+          "isPrivate": false
+        }
+      ],
+      "follower": [
+        {
+          "userId": 2,
+          "userImage": "https://i.ibb.co/F8kfjkh/tanaypratap.jpg",
+          "userName": "tanaypratap",
+          "firstName": "Tanay",
+          "lastName": "Pratap",
+          "userBio": "Rebuilding education",
+          "isPrivate": false
+        },
+        {
+          "userId": 3,
+          "userImage": "https://i.ibb.co/ZHpQV3b/raghavbang.jpg",
+          "userName": "raghavbang",
+          "firstName": "Raghav",
+          "lastName": "Bang",
+          "userBio": "WebDeveloper, in love with JS",
+          "isPrivate": false
+        },
+        {
+          "userId": 1,
+          "userImage": "https://i.ibb.co/MPMwHY5/adarshbalika.png",
+          "userName": "aadarshbalika",
+          "userBio": "Conquering hackathons",
+          "isPrivate": false,
+          "firstName": "Aadarsh",
+          "lastName": "Balika"
+        },
+        {
+          "userId": 5,
+          "userImage": "https://i.ibb.co/Zz7VWNw/tushartiwari.jpg",
+          "userName": "tushartiwari",
+          "firstName": "Tushar",
+          "lastName": "Tiwari",
+          "userBio": "Building Perforrmant applications that are easy to maintain, scale",
+          "isPrivate": false
+        },
+        {
+          "userId": 6,
+          "userImage": "https://i.ibb.co/ZXZ8Mr1/harshitadaswani.jpg",
+          "userName": "harshitadaswani",
+          "firstName": "Harshita",
+          "lastName": "Daswani",
+          "userBio": "Student, Aspiring Full Stack Web Developer",
+          "isPrivate": false
+        }
+      ]
+    },
+    {
+      "userId": 5,
+      "userImage": "https://i.ibb.co/Zz7VWNw/tushartiwari.jpg",
+      "userName": "tushartiwari",
+      "firstName": "Tushar",
+      "lastName": "Tiwari",
+      "userBio": "Building Perforrmant applications that are easy to maintain, scale",
+      "isPrivate": false,
+      "noOfFollower": 5,
+      "noOfFollowing": 5,
+      "following": [
+        {
+          "userId": 2,
+          "userImage": "https://i.ibb.co/F8kfjkh/tanaypratap.jpg",
+          "userName": "tanaypratap",
+          "firstName": "Tanay",
+          "lastName": "Pratap",
+          "userBio": "Rebuilding education",
+          "isPrivate": false
+        },
+        {
+          "userId": 3,
+          "userImage": "https://i.ibb.co/ZHpQV3b/raghavbang.jpg",
+          "userName": "raghavbang",
+          "firstName": "Raghav",
+          "lastName": "Bang",
+          "userBio": "WebDeveloper, in love with JS",
+          "isPrivate": false
+        },
+        {
+          "userId": 4,
+          "userImage": "https://i.ibb.co/NWhn8LF/ritikkapoor.jpg",
+          "userName": "ritikkapoor",
+          "firstName": "Ritik",
+          "lastName": "Kapoor",
+          "userBio": "Learner neogcamp | #ejs on weekends with teamtanay",
+          "isPrivate": false
+        },
+        {
+          "userId": 1,
+          "userImage": "https://i.ibb.co/MPMwHY5/adarshbalika.png",
+          "userName": "aadarshbalika",
+          "userBio": "Conquering hackathons",
+          "isPrivate": false,
+          "firstName": "Aadarsh",
+          "lastName": "Balika"
+        },
+        {
+          "userId": 6,
+          "userImage": "https://i.ibb.co/ZXZ8Mr1/harshitadaswani.jpg",
+          "userName": "harshitadaswani",
+          "firstName": "Harshita",
+          "lastName": "Daswani",
+          "userBio": "Student, Aspiring Full Stack Web Developer",
+          "isPrivate": false
+        }
+      ],
+      "follower": [
+        {
+          "userId": 2,
+          "userImage": "https://i.ibb.co/F8kfjkh/tanaypratap.jpg",
+          "userName": "tanaypratap",
+          "firstName": "Tanay",
+          "lastName": "Pratap",
+          "userBio": "Rebuilding education",
+          "isPrivate": false
+        },
+        {
+          "userId": 3,
+          "userImage": "https://i.ibb.co/ZHpQV3b/raghavbang.jpg",
+          "userName": "raghavbang",
+          "firstName": "Raghav",
+          "lastName": "Bang",
+          "userBio": "WebDeveloper, in love with JS",
+          "isPrivate": false
+        },
+        {
+          "userId": 4,
+          "userImage": "https://i.ibb.co/NWhn8LF/ritikkapoor.jpg",
+          "userName": "ritikkapoor",
+          "firstName": "Ritik",
+          "lastName": "Kapoor",
+          "userBio": "Learner neogcamp | #ejs on weekends with teamtanay",
+          "isPrivate": false
+        },
+        {
+          "userId": 1,
+          "userImage": "https://i.ibb.co/MPMwHY5/adarshbalika.png",
+          "userName": "aadarshbalika",
+          "userBio": "Conquering hackathons",
+          "isPrivate": false,
+          "firstName": "Aadarsh",
+          "lastName": "Balika"
+        },
+        {
+          "userId": 6,
+          "userImage": "https://i.ibb.co/ZXZ8Mr1/harshitadaswani.jpg",
+          "userName": "harshitadaswani",
+          "firstName": "Harshita",
+          "lastName": "Daswani",
+          "userBio": "Student, Aspiring Full Stack Web Developer",
+          "isPrivate": false
+        }
+      ]
+    },
+    {
+      "userId": 6,
+      "userImage": "https://i.ibb.co/ZXZ8Mr1/harshitadaswani.jpg",
+      "userName": "harshitadaswani",
+      "firstName": "Harshita",
+      "lastName": "Daswani",
+      "userBio": "Student, Aspiring Full Stack Web Developer",
+      "isPrivate": false,
+      "noOfFollower": 5,
+      "noOfFollowing": 5,
+      "following": [
+        {
+          "userId": 2,
+          "userImage": "https://i.ibb.co/F8kfjkh/tanaypratap.jpg",
+          "userName": "tanaypratap",
+          "firstName": "Tanay",
+          "lastName": "Pratap",
+          "userBio": "Rebuilding education",
+          "isPrivate": false
+        },
+        {
+          "userId": 3,
+          "userImage": "https://i.ibb.co/ZHpQV3b/raghavbang.jpg",
+          "userName": "raghavbang",
+          "firstName": "Raghav",
+          "lastName": "Bang",
+          "userBio": "WebDeveloper, in love with JS",
+          "isPrivate": false
+        },
+        {
+          "userId": 4,
+          "userImage": "https://i.ibb.co/NWhn8LF/ritikkapoor.jpg",
+          "userName": "ritikkapoor",
+          "firstName": "Ritik",
+          "lastName": "Kapoor",
+          "userBio": "Learner neogcamp | #ejs on weekends with teamtanay",
+          "isPrivate": false
+        },
+        {
+          "userId": 5,
+          "userImage": "https://i.ibb.co/Zz7VWNw/tushartiwari.jpg",
+          "userName": "tushartiwari",
+          "firstName": "Tushar",
+          "lastName": "Tiwari",
+          "userBio": "Building Perforrmant applications that are easy to maintain, scale",
+          "isPrivate": false
+        },
+        {
+          "userId": 1,
+          "userImage": "https://i.ibb.co/MPMwHY5/adarshbalika.png",
+          "userName": "aadarshbalika",
+          "userBio": "Conquering hackathons",
+          "isPrivate": false,
+          "firstName": "Aadarsh",
+          "lastName": "Balika"
+        }
+      ],
+      "follower": [
+        {
+          "userId": 2,
+          "userImage": "https://i.ibb.co/F8kfjkh/tanaypratap.jpg",
+          "userName": "tanaypratap",
+          "firstName": "Tanay",
+          "lastName": "Pratap",
+          "userBio": "Rebuilding education",
+          "isPrivate": false
+        },
+        {
+          "userId": 3,
+          "userImage": "https://i.ibb.co/ZHpQV3b/raghavbang.jpg",
+          "userName": "raghavbang",
+          "firstName": "Raghav",
+          "lastName": "Bang",
+          "userBio": "WebDeveloper, in love with JS",
+          "isPrivate": false
+        },
+        {
+          "userId": 4,
+          "userImage": "https://i.ibb.co/NWhn8LF/ritikkapoor.jpg",
+          "userName": "ritikkapoor",
+          "firstName": "Ritik",
+          "lastName": "Kapoor",
+          "userBio": "Learner neogcamp | #ejs on weekends with teamtanay",
+          "isPrivate": false
+        },
+        {
+          "userId": 5,
+          "userImage": "https://i.ibb.co/Zz7VWNw/tushartiwari.jpg",
+          "userName": "tushartiwari",
+          "firstName": "Tushar",
+          "lastName": "Tiwari",
+          "userBio": "Building Perforrmant applications that are easy to maintain, scale",
+          "isPrivate": false
+        },
+        {
+          "userId": 1,
+          "userImage": "https://i.ibb.co/MPMwHY5/adarshbalika.png",
+          "userName": "aadarshbalika",
+          "userBio": "Conquering hackathons",
+          "isPrivate": false,
+          "firstName": "Aadarsh",
+          "lastName": "Balika"
+        }
+      ]
+    }
+  ]
+}
